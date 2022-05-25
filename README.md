@@ -1,2 +1,2 @@
 My first readme
-Am learn form the best team
+Am learning form the best team
